@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Elshamy</h1>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png"/>
+</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="ahmed-elshamy" /> </p>
+
 <h3 align="center">Software Developer from Egypt🇪🇬</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourtarekmansour&label=Profile%20views&color=0e75b6&style=flat" alt="mansourtarekmansour" /> </p>
 
