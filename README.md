@@ -63,5 +63,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
   </a>
 </p>
+#### 🔗 Linkey App
 
+**Linkey App** helps users connect with service providers and request services easily.
+
+**Key Features:**
+- 🔍 Browse service providers
+- 💬 Directly request services
+- 📍 Location-based suggestions
+- 🎨 Clean and intuitive UI
+
+**Development Resources:**
+- 🔗 [GitHub Repository](https://github.com/your-linkey-repo)
+- 🔗 [Swagger API Docs](https://your-swagger-link.com)
+- 🔗 [UI & Landing Page](https://your-ui-link.com)
 ---
