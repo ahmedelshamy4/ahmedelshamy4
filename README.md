@@ -38,7 +38,7 @@
 - 🔭 I’m currently working as a Flutter Developer
 - 🌱 I’m learning advanced architecture and performance optimization
 - 💬 Ask me about mobile development, clean architecture, or state management
-- 📫 How to reach me: ahmedelshamy.dev@gmail.com
+- 📫 How to reach me: ahmedelshamy173@gmail.com
 
 
 ### 👨‍💻 Featured
