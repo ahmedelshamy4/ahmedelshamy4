@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elshamy 😀</h1>
 <h2 align="center">Flutter Developer Specializing in Scalable Mobile Apps 🚀</h2>
 
----
-
 ### 🌐 Connect with me:
 
 <p align="left">
