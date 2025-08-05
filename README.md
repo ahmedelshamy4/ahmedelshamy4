@@ -48,18 +48,15 @@
 
 ### 📱 Samples from My Projects
 
-#### 🔐 LinkeyApp - محفظة ليرات
+#### 🔗 Linkey App
 
-**Lirat Wallet** is a cutting-edge fintech application designed to provide a seamless and secure e-wallet experience for both individuals and businesses.
+**Linkey App** helps users connect with service providers and request services easily.
 
 **Key Features:**
-- ✅ Secure login
-- ✅ Real-time transactions
-- ✅ Multi-language support
-- ✅ Advanced security protocols
-
-**Value Delivered:**  
-Effortless financial management with industry-leading security and an intuitive interface.
+- 🔍 Browse service providers
+- 💬 Directly request services
+- 📍 Location-based suggestions
+- 🎨 Clean and intuitive UI
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.yourcompany.linkey" target="_blank">
