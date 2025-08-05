@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Elshamy 😀</h1>
-<h3 align="center">A Passionate Software Developer from Egypt 🇪🇬</h3>
-
+<h2 align="center">Flutter Developer Specializing in Scalable Mobile Apps 🚀</h2>
 ---
 
 ### 🌐 Connect with me:
@@ -45,8 +44,27 @@
 - 📫 How to reach me: ahmedelshamy173@gmail.com
 
 
-### 👨‍💻 Featured
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="Feature Banner" />
+### 📱 Samples from My Projects
+
+#### 🔐 LinkeyApp - محفظة ليرات
+
+**Lirat Wallet** is a cutting-edge fintech application designed to provide a seamless and secure e-wallet experience for both individuals and businesses.
+
+**Key Features:**
+- ✅ Secure login
+- ✅ Real-time transactions
+- ✅ Multi-language support
+- ✅ Advanced security protocols
+
+**Value Delivered:**  
+Effortless financial management with industry-leading security and an intuitive interface.
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.yourcompany.linkey" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
+  </a>
 </p>
+
+---
