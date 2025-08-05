@@ -24,10 +24,10 @@
 
 - I am a  Flutter Developer with over 3 years of experience creating scalable, user-focused mobile applications across fintech, e-commerce, and other industries. My expertise lies in delivering innovative solutions that meet user needs while maintaining high performance and security.
 
-🔭 Currently working on Baianat, building innovative mobile solutions.
-💬 Ask me about Flutter, Dart, OOP, SOLID, and Design Patterns.
-👨‍💻 Check out all my projects on GitHub.
-📫 Reach me at ahmedelshamy173@gmail.com.
+- Currently working on Baianat, building innovative mobile solutions.
+- Ask me about Flutter, Dart, OOP, SOLID, and Design Patterns.
+- Check out all my projects on GitHub.
+- Reach me at ahmedelshamy173@gmail.com.
 
 ---
 
