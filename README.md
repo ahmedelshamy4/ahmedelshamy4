@@ -33,23 +33,13 @@
   </a>
 </p>
 
----
+### 👨‍💻 About Me
 
-### 📈 GitHub Stats
+- 🔭 I’m currently working as a Flutter Developer
+- 🌱 I’m learning advanced architecture and performance optimization
+- 💬 Ask me about mobile development, clean architecture, or state management
+- 📫 How to reach me: ahmedelshamy.dev@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelshamy4&theme=dark&show_icons=true" alt="Ahmed's GitHub stats" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 ### 👨‍💻 Featured
 
