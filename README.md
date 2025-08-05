@@ -2,9 +2,14 @@
   <img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="Feature Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Elshamy 😀</h1>
+
 ---
 <h2 align="center">Flutter Developer Specializing in Scalable Mobile Apps 🚀</h2>
+
 ---
+
+---
+
 ### 🌐 Connect with me:
 
 <p align="left">
