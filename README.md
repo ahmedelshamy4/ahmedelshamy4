@@ -33,19 +33,3 @@
 
 ### 📱 Samples from My Projects
 
-#### 🔗 Linkey App
-
-**Linkey App** helps users connect with service providers and request services easily.
-
-**Key Features:**
-- 🔍 Browse service providers
-- 💬 Directly request services
-- 📍 Location-based suggestions
-- 🎨 Clean and intuitive UI
-
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.yourcompany.linkey" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
-  </a>
-</p>
-
